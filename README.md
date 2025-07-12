@@ -81,19 +81,6 @@ Modernized a legacy enterprise app
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=karthiksairaj-g&show_icons=true&theme=transparent" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthiksairaj-g&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karthiksairaj-g&theme=gruvbox&no-frame=true&margin-w=15&column=7" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">

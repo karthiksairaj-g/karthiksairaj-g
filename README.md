@@ -63,7 +63,7 @@ Microservice-based service catalog
 
 ---
 
-### 🏢 **Legacy Deal Pricing System**
+### 🏢 **Deal Pricing System (DPS)**
 Modernized a legacy enterprise app  
 - 🔄 Refactored with **.NET MVC**, **WCF Services**, and **jQuery**  
 - 📈 Improved code maintainability and scalability  

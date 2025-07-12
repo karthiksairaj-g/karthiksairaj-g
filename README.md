@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Karthik%20Sai%20Raj%20Guddeti&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20👋,%20I'm%20Karthik%20Sai%20Raj%20Guddeti&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">💻 Java & .NET Full Stack Developer | 🧩 Problem Solver | 🌐 Tech Enthusiast</h3>
@@ -72,14 +72,28 @@ Modernized a legacy enterprise app
 
 ## 🏅 Certifications
 
-| 🌐 Platform | 🏆 Certification |
-|------------|------------------|
-| Microsoft | Azure Administrator (AZ-104) |
-| Microsoft | Azure Developer Associate (AZ-204) |
-| Google | Professional Cloud Architect (PCA) |
-| LinkedIn & Microsoft | Career Essentials in Software Development |
-
----
+<table align="center">
+  <tr>
+    <th>🌐 Platform</th>
+    <th>🏆 Certification</th>
+  </tr>
+  <tr>
+    <td><b>Microsoft</b></td>
+    <td>Azure Administrator (AZ-104)</td>
+  </tr>
+  <tr>
+    <td><b>Microsoft</b></td>
+    <td>Azure Developer Associate (AZ-204)</td>
+  </tr>
+  <tr>
+    <td><b>Google</b></td>
+    <td>Professional Cloud Architect (PCA)</td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn & Microsoft</b></td>
+    <td>Career Essentials in Software Development</td>
+  </tr>
+</table>
 
 ## 📫 Let's Connect
 

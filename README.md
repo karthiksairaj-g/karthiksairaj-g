@@ -98,15 +98,18 @@ Modernized a legacy enterprise app
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthiksairajg/">
+  <a href="https://www.linkedin.com/in/karthiksairajg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/karthik_sai_raj_g/">
+  <a href="https://leetcode.com/karthik_sai_raj_g/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FECC00?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:karthiksairajndk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://karthiksairaj-g.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4b0cc2?style=for-the-badge&logo=react&logoColor=white" />
+</a>
 </p>
 
 ---
